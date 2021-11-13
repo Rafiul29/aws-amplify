@@ -4,7 +4,7 @@ function p(){
 
     return(
         <div>
-            <h1>AWS Severless Amplify</h1>
+            <h1>AWS Severless Amplify today</h1>
         </div>
     );
 }
